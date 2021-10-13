@@ -4,11 +4,11 @@
 - 📫 reach me on (kasun.kalhara2312@gmail.com)
 
 --------THIS IS HOW GOOD AM I WITH CURRENT STUFF I'M DEALING WITH --------------------
-HTML -        ⭐⭐⭐⭐⭐
-CSS -         ⭐⭐⭐⭐
-JavaScript -  ⭐⭐⭐
-Python -      ⭐⭐
-React  -      ⭐
+- HTML -        ⭐⭐⭐⭐⭐
+- CSS -         ⭐⭐⭐⭐
+- JavaScript -  ⭐⭐⭐
+- Python -      ⭐⭐
+- React  -      ⭐
 
 
 ------------------------ MY PROGRAMMING JOURNEY ------------------------
