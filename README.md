@@ -8,7 +8,4 @@
 - CSS -         ⭐⭐⭐⭐
 - JavaScript -  ⭐⭐⭐
 - Python -      ⭐⭐
-- React  -      ⭐
-
-
------------------------- MY PROGRAMMING JOURNEY ------------------------
+- React  -      ⭐⭐
