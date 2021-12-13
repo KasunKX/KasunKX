@@ -8,4 +8,4 @@
 - CSS -         ⭐⭐⭐⭐
 - JavaScript -  ⭐⭐⭐
 - Python -      ⭐⭐
-- React  -      ⭐⭐
+- React  -      ⭐⭐⭐
