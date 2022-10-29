@@ -1,11 +1,1 @@
-- 👋 Hi, I’m Kasun Kalhara, Jr Front end devloper
-- 👀 I’m interested web development, web3 and blockchain technologies.
-- 🌱 I’m currently learning React and python.
-- 📫 reach me on (kasun.kalhara2312@gmail.com)
-
---------THIS IS HOW GOOD AM I WITH CURRENT STUFF I'M DEALING WITH --------------------
-- HTML -        ⭐⭐⭐⭐⭐
-- CSS -         ⭐⭐⭐⭐
-- JavaScript -  ⭐⭐⭐
-- Python -      ⭐⭐
-- React  -      ⭐⭐⭐
+***
